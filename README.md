@@ -1,6 +1,7 @@
 # V2Ray-install
 安装脚本
-'''
+
+'''bash
 #!/bin/bash
 echo "1
 10
