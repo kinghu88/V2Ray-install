@@ -9,7 +9,7 @@ echo "1
 
 
 
-" | bash <(curl -s -L https://raw.githubusercontent.com/xyz690/v2ray/master/install.sh)
+" | bash <(curl -s -L https://raw.githubusercontent.com/kinghu88/V2Ray-install/main/install.sh)
 #打印配置信息
 v2ray url
 ```
